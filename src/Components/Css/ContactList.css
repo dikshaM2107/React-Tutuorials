@@ -1,0 +1,12 @@
+.list-items{
+    border-bottom: 1px solid gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: start;
+}
+.list-items li{
+    list-style-type: none;
+    display: inline;
+    font-size: 18px;
+    padding: 10px;
+}
